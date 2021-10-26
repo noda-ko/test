@@ -22,4 +22,4 @@ for add linefor add linefor add linefor add linefor add line
 
 
 `file`
-![test](https://docs.github.com/en/enterprise-server@3.0/admin/github-actions/advanced-configuration-and-troubleshooting/troubleshooting-github-actions-for-your-enterprise#configuring-self-hosted-runners-when-using-a-self-signed-certificate-for-github-enterprise-server)
+[test](https://docs.github.com/en/enterprise-server@3.0/admin/github-actions/advanced-configuration-and-troubleshooting/troubleshooting-github-actions-for-your-enterprise#configuring-self-hosted-runners-when-using-a-self-signed-certificate-for-github-enterprise-server)
